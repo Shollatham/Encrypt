@@ -1,0 +1,17 @@
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\bin\Debug\Test.exe.config
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\bin\Debug\Test.exe
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\obj\Debug\Test.exe
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\bin\Debug\Security.Cryptography.dll
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\bin\Debug\Security.Cryptography.pdb
+C:\Users\sprapakornvo\Documents\Visual Studio 2017\Projects\Test\Test\bin\Debug\Security.Cryptography.xml
+C:\Users\sprapakornvo\documents\visual studio 2017\Projects\Test\Test\bin\Debug\BouncyCastle.Crypto.dll
